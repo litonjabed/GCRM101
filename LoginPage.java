@@ -18,7 +18,7 @@ public class LoginPage extends BusinessLib
 	{
 		System.out.println("sample static method");
 	}
-	
+	// TEST
 	
 	//user name object property
 	public static WebElement get_UserName_txtbox()
